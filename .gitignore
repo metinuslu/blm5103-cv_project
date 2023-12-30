@@ -1,3 +1,12 @@
+.ipynb_checkpoints
+__pycache__
+.vscode
+data/images
+data/processed/old
+emb
+garbage
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
