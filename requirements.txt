@@ -1,0 +1,7 @@
+# pip install -r requirements.txt 
+jupyterlab
+pandas
+tensorflow==2.15.0
+tensorflow_hub==0.15.0
+pillow==10.1.0
+tqdm==4.66.1
