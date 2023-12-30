@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 __pycache__
 .vscode
+
+data/*/*.csv
 data/images
 data/processed/old
 emb
