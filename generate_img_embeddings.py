@@ -73,7 +73,7 @@ def main(input_dir, results_name):
 
     df_emb_data = pd.DataFrame.from_dict(embed_dict_input, orient='index').reset_index()
     df_emb_data.rename(columns={'index':'ImgName'}, inplace=True)
-    df_emb_data.to_csv(results_name + ".csv", index=False)
+    df_emb_data.to_csv(results_name + ".csv.gz", compression='gzip', index=False)
 
 if __name__ == '__main__':
     ROOT_PATH = os.getcwd()
