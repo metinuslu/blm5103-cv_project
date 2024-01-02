@@ -12,4 +12,4 @@ MiniConda Install: https://docs.conda.io/projects/miniconda/en/latest/miniconda-
 ### Run
 
 #### Generate Image Embeddings
-`python generate_img_embeddings.py`
+`python generate_image_embeddings.py`
