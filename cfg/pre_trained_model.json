@@ -2,5 +2,9 @@
     "inception_v3": {
         "MODEL_URL": "https://www.kaggle.com/models/google/inception-v3/frameworks/TensorFlow2/variations/feature-vector/versions/2",
         "IMAGE_SHAPE": "(224, 224)"
-    }
+    },
+    "resnet_v2": {
+        "MODEL_URL": "https://www.kaggle.com/models/google/resnet-v2/frameworks/TensorFlow2/variations/50-feature-vector/versions/2",
+        "IMAGE_SHAPE": "(224, 224)"
+    }    
 }
