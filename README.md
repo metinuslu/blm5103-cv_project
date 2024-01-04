@@ -12,4 +12,6 @@ MiniConda Install: https://docs.conda.io/projects/miniconda/en/latest/miniconda-
 ### Run
 
 #### Generate Image Embeddings
-`python generate_image_embeddings.py`
+ - `DataPreProcess.ipynb`
+ - `python generate_image_embeddings.py`
+ - `DataPostProcess.ipynb`
